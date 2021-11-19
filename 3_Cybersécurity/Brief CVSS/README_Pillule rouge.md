@@ -1,0 +1,7 @@
+# Pillule rouge
+Une épidémie frappe le monde à la veille du lancement d'une navette spatiale visant à coloniser Mars. Un groupe non gouvernemantale, Les Codes PUKE à Chiens, cherche à initier le chaos pour prendre le contrôle des instances gouvernementale dans le but de prendre le contrôle des missions spaciales.
+Des agents secrets de la ZONE ( zèbres ovoïdaux névralgiques et équitable) déssiminés au quatres coins du monde doivent faires face à des infectés qui n'ont qu'un but en tête. Péta des systèmes ! L'infection les ont rendu incroyablement organisés et techniquement balèzes, ils sont à la recherche de la moindre vulnérabilité critique. 
+L'équipe Rogue cervoise, apporte son soutient aux équipes responsable de la sécurité en évaluant la criticité des systèmes des agents vulnérabilités et se retrouve à utiliser une méthode standard d'évaluation vielle comme le Protocole De Kyoto......
+# Les CVSS.
+>Dans le domaine de la sécurité informatique, **Common Vulnerability Scoring System** (CVSS) est un système d'évaluation standardisé de la criticité des vulnérabilités selon des critères objectifs et mesurables. Cette évaluation est constituée de 3 mesures appelées métriques : la métrique de base, la métrique temporelle et la métrique environnementale. Le score final est compris entre 0 et 10, 10 correspondant aux vulnérabilité les plus critiques.
+---
