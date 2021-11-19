@@ -25,7 +25,7 @@
 ### AppLocker
 > #out-of-the-box #whitelist
 > sftw :
->  AaaLocker est une fonction de contrôle des applications présentes des les version entreprises windows. Cet outil vous permet de gérer les applications et les fichiers que les utilisateurs peuvent exécuter.
+>  AaaLocker est une fonction de contrôle des applications présentes des les versions entreprises windows. Cet outil vous permet de gérer les applications et les fichiers que les utilisateurs peuvent exécuter.
 ### Architecture
 >ccpt :
 >#unité
