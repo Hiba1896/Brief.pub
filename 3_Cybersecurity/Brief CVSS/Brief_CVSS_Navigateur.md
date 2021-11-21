@@ -8,9 +8,10 @@
 
 [cvedetails](https://www.cvedetails.com/cve/CVE-2021-38669/)
 [nvd.nist](https://nvd.nist.gov/vuln/detail/CVE-2021-38669)
+
 **NVD Publish Date :** 
 2021-09-15 
-** NVDLast Update Date :**
+**NVDLast Update Date :**
 2021-09-28
 * [Base score](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?name=CVE-2021-38669&vector=AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H&version=3.1&source=NIST)
 Nous donne un score CVSS de **8.8/10** (légèrement plus haut que sur cvedetails.com
