@@ -3,3 +3,7 @@ Une épidémie frappe le monde à la veille du lancement d'une navette spatiale 
 # Les CVSS.
 >Dans le domaine de la sécurité informatique, **Common Vulnerability Scoring System** (CVSS) est un système d'évaluation standardisé de la criticité des vulnérabilités selon des critères objectifs et mesurables. Cette évaluation est constituée de trois mesures appelées métriques : la métrique de base, la métrique temporelle et la métrique environnementale. Le score final est compris entre 0 et 10, 10 correspondant aux vulnérabilités les plus critiques.
 ---
+
+# [Episode One : A New Browser](https://github.com/C137-Plumbus-Owner/Brief.pub/blob/main/3_Cybersecurity/Brief%20CVSS/Brief_CVSS_Navigateur.md)
+# [Episode Two : The Appelempire Strikes Back](https://github.com/C137-Plumbus-Owner/Brief.pub/blob/main/3_Cybersecurity/Brief%20CVSS/Brief_CVSS_Smartphone.md)
+# [Episode Three : Return of the Linux](https://github.com/C137-Plumbus-Owner/Brief.pub/blob/main/3_Cybersecurity/Brief%20CVSS/Brief_CVSS_Linux.md)
