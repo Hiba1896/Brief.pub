@@ -9,9 +9,9 @@
 [cvedetails](https://www.cvedetails.com/cve/CVE-2021-38669/)
 [nvd.nist](https://nvd.nist.gov/vuln/detail/CVE-2021-38669)
 
-**NVD Publish Date :** 
-2021-09-15 
-**NVDLast Update Date :**
+**NVD Publish Date :**  
+2021-09-15  
+**NVDLast Update Date :**  
 2021-09-28
 * [Base score](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?name=CVE-2021-38669&vector=AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H&version=3.1&source=NIST)
 Nous donne un score CVSS de **8.8/10** (légèrement plus haut que sur cvedetails.com
@@ -24,8 +24,8 @@ Qu'en est-il de notre score CVSS pour un poste dans un Bunker russe ?
 
 Le contexte de notre vulnérabilité se place dans le navigateur edge sur un poste informatique dans bunker isolé du réseau WAN, seule une attaque en local est possible voyons comment la note évolue avec les paramètres environnementaux :
 
-* **(AV) **N**etwork -> (MAV) **P**hysical
-* **(AC) **L**ow -> (MAC) **H**igh
+* (AV) **N**etwork -> (MAV) **P**hysical
+* (AC) **L**ow -> (MAC) **H**igh
 
 [Le score de vulnérabilité](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/CR:X/IR:X/AR:X/MAV:P/MAC:H/MPR:X/MUI:X/MS:X/MC:X/MI:X/MA:X&version=3.1) global devient **6.3/10**
 
@@ -43,6 +43,7 @@ Acceuil : un rang de 3 postes allumés*
 
 [cvedetails](https://www.cvedetails.com/cve/CVE-2021-21140/)
 [nvd.nist](https://nvd.nist.gov/vuln/detail/CVE-2021-21140)
+
 **NVD Published Date:**  
 02/09/2021  
 **NVD Last Modified:**  
@@ -73,6 +74,7 @@ L'entreprise étant ouvert sur l'extérieur augmente grandement la note, on peut
 
 [cvedetails](https://www.cvedetails.com/cve/CVE-2020-15684/)
 [vnd.nist](https://nvd.nist.gov/vuln/detail/CVE-2020-15684)
+
 **NVD Published Date:**  
 10/22/2020  
 **NVD Last Modified:**  
